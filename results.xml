@@ -1,0 +1,6 @@
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.538402">
+<testsuite name="common/pageStructure/browseAll.spec.ts" timestamp="2023-09-30T23:27:45.302Z" hostname="chrome-large-1" tests="1" failures="0" skipped="0" time="3.269" errors="0">
+<testcase name="C81399 Browse all page" classname="common/pageStructure/browseAll.spec.ts" time="3.269">
+</testcase>
+</testsuite>
+</testsuites>
